@@ -1,0 +1,4 @@
+Winnie the Poodle 29.7FAIL
+Doggy Howlser 80.3PASS
+Santa Paws 17.0FAIL
+Chew Barka 99.5PASS
